@@ -18,7 +18,7 @@
 
 # s1.rev_print()
 # s2.rev_print()
-# print(NSTStudets.school)
+# print(NSTStudets.school)s
 # print(NSTStudets.__name__)
 # class hh:
 #     num1 = 2
